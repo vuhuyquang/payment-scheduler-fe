@@ -17,10 +17,10 @@
           >
             <li class="nav-item">
               <a
-                href="#quangvh18"
+                href="#"
                 class="nav-link text-muted"
                 target="_blank"
-                >quangvh18</a
+                >GHTK</a
               >
             </li>
             <li class="nav-item">
